@@ -1,0 +1,181 @@
+ <!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+  <title>Life of King</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head><body>
+<nav class="navbar navbar-expand-sm bg-secondary navbar-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="https://www.instagram.com/virat.kohli/">Profile</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="file:///C:/Users/91760/OneDrive/cloud/OneDrive/Documents/EIT/dharani1.html">Early Life</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="file:///C:/Users/91760/OneDrive/cloud/OneDrive/Documents/EIT/dharani2.html">Youth & Domestic</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="file:///C:/Users/91760/OneDrive/cloud/OneDrive/Documents/EIT/dharani3.html">International Career</a>
+        </li>  
+        <li class="nav-item">
+          <a class="nav-link" href="file:///C:/Users/91760/OneDrive/cloud/OneDrive/Documents/EIT/dharani4.html">Foundation</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="0" role="button" data-bs-toggle="dropdown">Best Innings</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="https://youtu.be/cXxfvdVFt58?si=EUeskWgodcLYyEk2">T20I</a></li>
+            <li><a class="dropdown-item" href="https://youtu.be/ffA5HJVdZjk?si=x-0eipLhNeojI92Y">ODI</a></li>
+            <li><a class="dropdown-item" href="https://youtu.be/yFlarM35vxA?si=H8AZ9_kETdVRQVZD">Test</a></li>
+            <li><a class="dropdown-item" href="https://youtu.be/nCBNNQzqkF4?si=Cq8dAYddWNPFMxrY">IPL</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container mt-3">
+<div class="row">
+<div class="col pt-3">
+  <h2>ViratKohli</h2>
+  <h6 class="text-muted">Indian cricketer</h6>
+  <hr>
+<div class="container-fluid mt-3">
+ </div>
+ <br>
+ <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+  <!-- Indicators/dots -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+  <!-- The slideshow/carousel -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://wallpapers.com/images/hd/indian-cricketer-virat-kohli-hd-xhdz8lakapzrhxfw.jpg" alt="Los Angeles" class="d-block" style="width:100%">
+    </div>
+    <div class="carousel-item">
+      <img src="https://static.toiimg.com/thumb/msid-95273670,width-1280,height-720,resizemode-4/95273670.jpg" alt="Chicago" class="d-block" style="width:100%">
+    </div>
+    <div class="carousel-item">
+      <img src="https://wallpapercave.com/wp/wp6864984.jpg" alt="New York" class="d-block" style="width:100%">
+    </div>
+  </div>
+  <br>
+</div>
+
+</div></div></div></body></html>
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+  <title>virat's early life</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+
+    <div class="container mt-3">
+        <centre>
+            <h1>EARLY LIFE</h1>
+        </centre><hr>
+        <img src="https://rukminim2.flixcart.com/image/850/1000/j6i7ma80/poster/h/q/j/large-indian-criketer-virat-kohli-hd-wallpaper-on-fine-art-paper-original-imaergs3shvhykb5.jpeg?q=90" class="rounded" alt="Cinque Terre" width="236" height="304"> 
+        <hr>
+        <p>Virat Kohli was born on 5 November 1988 in Delhi into a Punjabi Hindu family. His father, Prem Kohli, worked as a criminal lawyer and his mother, Saroj Kohli, served as a housewife. He has an older brother, Vikas, and an older sister, Bhawna.[6] Kohli's formative years were spent in Uttam Nagar. He commenced his early education at Vishal Bharti Public School.[7] According to his family, Kohli exhibited an early affinity for cricket as a mere three-year-old. He would pick up a cricket bat, display natural skill, and request his father to bowl to him.[8]
+
+            In 1998, the West Delhi Cricket Academy (WCDA) was created. On 30 May of that year, Prem Kohli, who'd espoused his younger son's fervour for cricket, assisted nine-year-old Kohli's aspirations and arranged for him to meet Rajkumar Sharma, who initially perceived him to be just another enthusiastic and determined young boy. However, two weeks later, Sharma was impressed by Kohli's accuracy and power in throwing.[9] Upon the suggestion of their neighbours, Kohli's father considered enrolling his son in a professional cricket academy, as they believed that his cricketing abilities merited more than just playing in gully cricket.[10] Despite his abilities, he faced the setback of being unable to secure a place in the under-14 Delhi team, not due to a lack of merit but due to extraneous factors. Prem Kohli received offers to relocate his son to influential clubs, which would have ensured his selection, but he declined the proposals, as he was determined that Kohli should earn his recognition based on his own merit and overcome the system of nepotism and deceit prevalent in the Delhi and District Cricket Association (DDCA). Kohli persisted and eventually found his way into the under-15 Delhi team.[11] He received training at the academy while simultaneously participating in matches at the Sumeet Dogra Academy located at Vasundhara Enclave.[12] As per Sharma's recollection of Kohli's initial days at his academy, he exuded remarkable talent, making it arduous for the coach to curb his enthusiasm. Kohli remained prepared to bat at any position, and often, Sharma had to physically coerce him to leave the training sessions, as he was reluctant to depart.[13] In pursuit of furthering his cricketing career, he transitioned to Saviour Convent School during his ninth-grade education.[10] Kohli's ardent passion for cricket compelled him to travel long distances with his father to ensure that he never missed a match. With time, he diligently honed his skills and diversified his range of shots, commanding respect from the local bowlers.[14]
+            
+            On 18 December 2006, Kohli experienced the loss of his father due to a cerebral attack.[10][15] During his childhood, his father played a crucial role in supporting his cricket training. Kohli has credited his father as the one who drove him to practice every day. He has expressed his feelings of missing his father's presence at times.[7][16] Following the demise of Kohli's father, his mother observed a significant change in his personality. Kohli appeared to become more mature overnight, and he began taking every cricket match seriously. He harboured an aversion to exclusion from games and appeared to channel his entire existence into the pursuit of cricket following his father's untimely demise.[10] Kohli's family resided in Meera Bagh, Paschim Vihar until the year 2015, after which they relocated to Gurgaon.[17]</p>
+        </div>
+        </body>
+            </html>
+            <!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+  <title>Youth & Domestic</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+
+    <div class="container mt-3">
+        <centre>
+            <h1>YOUTH & DOMESTIC CAREER</h1>
+        </centre><hr>
+        <img src="https://i1.wp.com/cdn-wp.thesportsrush.com/2023/02/e3529999-kohli-had-once-feared.jpg?strip=all" width="333" height="236"> 
+        <hr>
+        <p>Kohli's junior cricket career kicked off in October 2002 at the Luhnu cricket ground in a Polly Umrigar match against the host state of Himachal Pradesh. In his debut match, Kohli managed to score a total of fifteen runs. His first half-century in national cricket came at Ferozeshah Kotla, where he scored 70 runs against Harayana.[18] By the end of the season, Kohli had amassed a total of 172 runs, emerging as the highest run-scorer for his side with an average of 34.40.[19] During the 2003–04 season, Kohli was appointed as the captain of the under-15 team. In his first match of the season, he scored 54 runs in Delhi's victory over Himachal Pradesh. In the next fixture against Jammu and Kashmir, Kohli scored his maiden century with a score of 119 in a BCCI-conducted game. By the end of the season, he had amassed a total of 390 runs at an average of 78, which included two centuries.[20][21][a] Towards the end of 2004, Kohli earned selection for the 2004–05 Vijay Merchant Trophy with the Delhi under-17 team. In the four matches that he played, Kohli accumulated a total of 470 runs, with his highest score being 251* runs. The team's coach, Ajit Chaudhary, lauded his performance and was particularly impressed with his temperament on the field.[23][24] In the 2005–06 season, Kohli commenced his innings with a score of 227 against Punjab. Following their victory over Uttar Pradesh in the quarter-finals, Delhi was scheduled to play against Baroda in the semi-finals. The team had high expectations from Kohli, who had promised his coach to finish the job. True to his word, Kohli went on to score 228 runs, leading Delhi to victory. The team later secured the tournament with a five-wicket win over Mumbai, where he contributed with a half-century in the first innings.[25] He ended as the highest run-scorer with a total of 757 runs from 7 matches, averaging 84.11.[26]
+
+            On 18 February 2006, Kohli made his debut in List A cricket, playing against Services in the Ranji One-Day Trophy, but he did not have the opportunity to bat during the match.[27] In 2006, Kohli had garnered enough attention to earn a spot in the state senior team. Subsequently, he made his first-class debut on 23 November 2006, during the opening match of the Ranji Trophy season against Tamil Nadu. However, his debut innings was a brief one, as he was dismissed after scoring ten runs.[28] In a sequence of three matches, Kohli failed to score a fifty, leading his coaches to provide him with counselling. In the subsequent match against former champions, Karnataka, Delhi found themselves trailing with a score of 130/5, with Kohli remaining unbeaten on 40 at the end of the day's play. That very night, Kohli's father passed away at 3:54 a.m. Despite the heart-wrenching news, Kohli returned to the match and continued to bat and scored 90 runs before he was dismissed.[29] The team's coach, Chetan Chauhan was impressed by Kohli's resolute determination and unwavering attitude in the face of adversity. Venkatesh Prasad also lauded his crucial knock, which was executed in the midst of an emotional upheaval.[30] Following his dismissal, Kohli immediately attended his father's funeral. His innings, however, proved to be crucial for Delhi as they were able to avoid the follow-on. The team's captain, Mithun Manhas, praised Kohli for his performance, acknowledging its pivotal role in the team's success.[30]
+            
+            Kohli's foray into T20 cricket took place in April 2007, during the Inter-State T20 Championship, where he emerged as the top run-getter for his team with a tally of 179 runs at an average of 35.80.[31] In September 2008, Kohli played in Nissar Trophy against SNGPL (reigning champions of the Quaid-i-Azam Trophy from Pakistan). He emerged as the leading scorer for Delhi in both innings, registering 52 runs in the first innings and a towering 197 in the second. The match ultimately ended in a draw, SNGPL being declared the victors due to their lead in first innings.[32] In the 2009–10 Ranji Trophy season, Kohli returned to domestic cricket. During a match against Maharastra, he opened the batting and scored 67 runs, helping Delhi to secure the bonus point required for victory.[33] Kohli's performance reinvigorated the competitive spirit of the domestic cricket circuit. Ashish Nehra observed his growth over time and shared his thoughts:[34]
+            
+            I did not see him waste his time. If not on the field, he would be busy in the gym. I saw him first as a chubby-cheeked bubbly young kid who grew into a perfect athlete. His junior cricket lessons have obviously helped him. I did not know him well, but had heard a lot about his exploits in junior cricket.</p>
+    </div>
+    </body>
+    </html>
+    <!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+  <title>Int Career</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <div class="container mt-3">
+        <centre>
+            <h1>INTERNATIONAL CAREER</h1>
+        </centre><hr>
+        <img src="https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/03/28/Pictures/calls-team-photo-cricket-world-cup-official_f8677330-f4a7-11e5-860d-a0ffe8a3a28f.jpg" class="rounded" alt="Cinque Terre" width="304" height="236"> 
+        <hr>
+        <p>
+            In August 2008, Kohli was selected for inclusion in the ODl squad for the tour of Sri Lanka and the Champions Trophy in Pakistan. Prior to the Sri Lankan tour, Kohli had limited experience, with only eight List A matches under his belt.[46] So, his selection was considered a "surprise call-up".[47] During the Sri Lankan tour, as both first-choice openers Sachin Tendulkar and Virender Sehwag, were unable to play due to injury, Kohli was required to fill the role of makeshift opener throughout the series.[48] On 18 August 2008, Kohli made his international debut at the age of 19 in the first ODI of the tour, where he was dismissed for 12 runs, caught dead in front by an incutter from Nuwan Kulasekara.[49] However, in the fourth match of the series, Kohli achieved his inaugural half century in the ODl format, with a total of fifty-four runs scored.[50]
+
+Following the postponement of the Champions Trophy to 2009, Kohli was picked as a replacement for the injured Shikhar Dhawan in the India A squad for the unofficial Tests against Australia A in September 2008.[51] Despite limited opportunities, he managed to make an impact in the single innings that he participated in, scoring 49 runs.[52] In October 2008, Kohli participated in a four-day tour match against Australia as part of the Indian Board President's XI team. The match featured a formidable Australian bowling line-up that consisted of Brett Lee, Stuart Clark, Mitchell Johnson, Peter Siddle and Jason Krejza. Despite this, Kohli displayed his batting prowess by scoring 105 runs in the first innings and an unbeaten 16 runs in the second innings, demonstrating his ability to perform against high-level international competition.[53]
+
+In November 2008, Kohli was selected for inclusion in the squad for the home ODI series against England, due to the presence of established and experienced players such as Tendulkar and Sehwag, he was not given an opportunity to play in any of the matches.[54] In December 2008, Kohli was awarded a Grade D contract by the Board of Control for Cricket in India (BCCI) as part of the annual contract list for the Indian national team which entitled him to receive ₹1.5 million (equivalent to ₹4.2 million or US$52,000 in 2023), A certain level of remuneration for representing the national team in various matches and events.[55] Despite being awarded a contract, in January, Kohli was dropped for the five-match ODl series against Sri Lanka in Sri Lanka.[56]
+
+In July–August 2009, Kohli was selected in the four-team Emerging Players Tournament, held in Australia. He was selected to open the innings for the Indian Emerging Players team in the tournament, and he went on to have a standout performance. Kohli finished as the tournament's leading run-scorer, with a total of 398 runs from seven matches, at an average of 66.33. He was particularly impressive in the final match, where he scored 104 runs off 102 balls against the South Africa Emerging Players team in Brisbane. His strong performance helped lead his team to a 17-run victory and the tournament title.[57][58] At the conclusion of the tournament, Kris Srikkanth, the Chairman of the Indian national selection committee, expressed his admiration for Kohli's performance during the tournament. Srikkanth stated, "I must say, opener Virat Kohli was outstanding. Some of the shots he played spoke about his ability."[59] Kohli himself has stated that this tournament was a "turning point" in his career.[60]
+
+In August 2009, Kohli returned to the national team after recovering from a minor shoulder injury, replacing the injured Gautam Gambhir in the Indian squad for the tri-series in Sri Lanka.[61] He was also utilized as a middle order batsman in the 2009 ICC Champions Trophy due to an injury sustained by Yuvraj Singh.[62] In December of that same year, he was included in the team for home ODI series against Sri Lanka and scored 27[63] and 54 in the first two ODIs before making way for Yuvraj, who regained fitness for the third ODI. However, due to the reoccurrence of a finger injury, Yuvraj was ruled out indefinitely,[64] which led to Kohli's return to the team in the fourth ODI at Kolkata. In that match, Kohli scored his maiden ODI century–107 off 114 balls–while sharing a 224-run partnership for the third wicket with Gambhir. As a result of this performance, India won by seven wickets and sealed the series 3–1.[65][b]
+        </p>
+    </div></body></html>
+    <!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+  <title>Foundation</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <div class="card" style="width:400px">
+        <div class="card-body">
+        <img class="card-img-bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Virat_Kohli_charity_%28cropped%29.jpg" alt="Card image" style="width:100%">
+        <hr>
+           <h6>Virat Foundation</h6>
+        <a href="https://viratkohli.foundation/" class="btn btn-light">Visit</a>
+      </div>
+      </div>
+      </body>
+      </html>
